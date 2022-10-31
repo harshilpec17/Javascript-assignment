@@ -14,3 +14,17 @@ This is robost method to create faqs in the system by using pure Javascript.
 - explore repetative eventlistner
 
 ### Time taken to complete this project is 6 hours
+
+<p>&nbsp;</p>
+
+### faq close image
+
+![faq-home.png](faq-home.png)
+
+<p>&nbsp;<p>
+
+### faq-open image
+
+![faq-open.png](faq-open.png)
+
+
